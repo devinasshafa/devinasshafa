@@ -1,5 +1,6 @@
 # Hi, I'm Devin Aulia Asshafa! 👋✨
 ✨ *Turning data into insights, one project at a time.*
+
 ![hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRxbTVncTVkYWpzMzFwMHZkMmRzY3BiZHpqdXFwdW1uODJzaHJkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2eYsA6iV0jX1z8Tel/giphy.gif)
 
 🎓 **Data Science Graduate | Universitas Negeri Surabaya**
