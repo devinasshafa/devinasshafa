@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Devin Aulia Asshafa! 👋✨
 
-<!--
-**devinasshafa/devinasshafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Science Graduate | Universitas Negeri Surabaya**
 
-Here are some ideas to get you started:
+I'm passionate about turning data into meaningful insights and building data-driven solutions to real-world problems. My interests include **Data Science, Data Analytics, Machine Learning, and Natural Language Processing (NLP)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- 📊 Explore data through analysis and visualization.
+- 🤖 Develop machine learning models for predictive analytics.
+- 🧠 Explore NLP for text and sentiment analysis.
+- 🔍 Transform complex data into actionable insights.
+
+### 🛠️ Tech Stack
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Tableau`
+
+### 🌱 Currently
+Continuously learning, exploring new technologies, and building projects to grow my skills in data science and AI.
+
+### 📫 Let's Connect!
+I'm always open to learning opportunities, collaboration, and exciting projects!
+
+✨ *Turning data into insights, one project at a time.*
